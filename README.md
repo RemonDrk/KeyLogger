@@ -4,6 +4,6 @@ Just a simple keylogger that tracks key strokes and saves them to the `../AppDat
 #### Disclaimer
 This script is only written for *learning* purposes. It is illegal to use, and I am not responsible for your malicious activities.
 
-####How to close the program after you run it
+#### How to close the program after you run it
 - If you run the program, it will add itself to startup list. To remove from there, you can go to Task Manager > Startup and disable KeyLogger. *Or* as removeFromStartup.bat file does for you, you can run the program with a single "removeFromStartup" command line arg.
 - After on, you can **End Task** of **KeyLogger.exe** from **Task Manager** (Should be under Background processes).
